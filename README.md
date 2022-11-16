@@ -1,4 +1,4 @@
-# ransomware
+# Ransomware
 Simple ransomware in Python
 Nothing special
 # Run in terminal to encrypt contents of the files
